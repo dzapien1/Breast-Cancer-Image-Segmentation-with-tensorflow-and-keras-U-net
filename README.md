@@ -20,7 +20,12 @@ To use GPU-accelerated training, you need to install CUDA drivers and cuDNN. Fol
 Install NVIDIA Drivers: Make sure you have the latest NVIDIA drivers installed. You can download the drivers from here: https://www.nvidia.com/Download/index.aspx
 
 Install CUDA Toolkit: Download and install the CUDA Toolkit from the NVIDIA website: https://developer.nvidia.com/cudnn. 
+
 Make sure to choose the version compatible with your TensorFlow version.
+
+Install cuDNN: Download cuDNN from the NVIDIA website: https://developer.nvidia.com/cudnn. 
+
+After downloading, unzip the files and copy the bin, include, and lib files to your corresponding CUDA directory.
 
 
 
