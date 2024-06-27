@@ -10,6 +10,10 @@ This repository contains a project for breast cancer image segmentation using a 
 # Requirements
 
 Python 3.8 or higher
+
+
 TensorFlow 2.x
+
+
 Cuda drivers
 
